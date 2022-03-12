@@ -1,0 +1,15 @@
+F:\devskillc#\Assignment1devskill\problem7\bin\Debug\net6.0\problem7.exe
+F:\devskillc#\Assignment1devskill\problem7\bin\Debug\net6.0\problem7.deps.json
+F:\devskillc#\Assignment1devskill\problem7\bin\Debug\net6.0\problem7.runtimeconfig.json
+F:\devskillc#\Assignment1devskill\problem7\bin\Debug\net6.0\problem7.dll
+F:\devskillc#\Assignment1devskill\problem7\bin\Debug\net6.0\problem7.pdb
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.csproj.AssemblyReference.cache
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.GeneratedMSBuildEditorConfig.editorconfig
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.AssemblyInfoInputs.cache
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.AssemblyInfo.cs
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.csproj.CoreCompileInputs.cache
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.dll
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\refint\problem7.dll
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.pdb
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\problem7.genruntimeconfig.cache
+F:\devskillc#\Assignment1devskill\problem7\obj\Debug\net6.0\ref\problem7.dll

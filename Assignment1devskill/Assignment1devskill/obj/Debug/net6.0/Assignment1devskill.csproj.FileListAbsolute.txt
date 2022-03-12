@@ -1,0 +1,15 @@
+F:\devskillc#\Assignment1devskill\Assignment1devskill\bin\Debug\net6.0\Assignment1devskill.exe
+F:\devskillc#\Assignment1devskill\Assignment1devskill\bin\Debug\net6.0\Assignment1devskill.deps.json
+F:\devskillc#\Assignment1devskill\Assignment1devskill\bin\Debug\net6.0\Assignment1devskill.runtimeconfig.json
+F:\devskillc#\Assignment1devskill\Assignment1devskill\bin\Debug\net6.0\Assignment1devskill.dll
+F:\devskillc#\Assignment1devskill\Assignment1devskill\bin\Debug\net6.0\Assignment1devskill.pdb
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.csproj.AssemblyReference.cache
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.GeneratedMSBuildEditorConfig.editorconfig
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.AssemblyInfoInputs.cache
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.AssemblyInfo.cs
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.csproj.CoreCompileInputs.cache
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.dll
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\refint\Assignment1devskill.dll
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.pdb
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\Assignment1devskill.genruntimeconfig.cache
+F:\devskillc#\Assignment1devskill\Assignment1devskill\obj\Debug\net6.0\ref\Assignment1devskill.dll

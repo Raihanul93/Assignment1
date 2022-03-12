@@ -1,0 +1,15 @@
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.csproj.AssemblyReference.cache
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.GeneratedMSBuildEditorConfig.editorconfig
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.AssemblyInfoInputs.cache
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.AssemblyInfo.cs
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.csproj.CoreCompileInputs.cache
+F:\devskillc#\Assignment1devskill\Promlem3\bin\Debug\net6.0\Promlem3.exe
+F:\devskillc#\Assignment1devskill\Promlem3\bin\Debug\net6.0\Promlem3.deps.json
+F:\devskillc#\Assignment1devskill\Promlem3\bin\Debug\net6.0\Promlem3.runtimeconfig.json
+F:\devskillc#\Assignment1devskill\Promlem3\bin\Debug\net6.0\Promlem3.dll
+F:\devskillc#\Assignment1devskill\Promlem3\bin\Debug\net6.0\Promlem3.pdb
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.dll
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\refint\Promlem3.dll
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.pdb
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\Promlem3.genruntimeconfig.cache
+F:\devskillc#\Assignment1devskill\Promlem3\obj\Debug\net6.0\ref\Promlem3.dll
